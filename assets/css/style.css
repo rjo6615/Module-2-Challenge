@@ -43,8 +43,8 @@
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #00a8e8;
+    color: black;
 }
 
   .main-sections h2 {
@@ -73,7 +73,7 @@
   }
 
   .grid-container > div:hover {
-    box-shadow: inset 0px 0px 8px rgba(232, 102, 236, 1), 0 0 15px rgba(232, 102, 236, 1);
+    box-shadow: inset 0px 0px 8px #00171f, 0 0 15px #00171f;
   }
 
   .grid-container > div > h2 {
@@ -122,8 +122,8 @@
     padding: 50px;
     height: 1000px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;   
+    background-color: #00a8e8;
+    color: black;   
 }
 
 /* end */
@@ -147,12 +147,12 @@
     height: 60px;
     width: 100%;
     line-height: 60px;
-    background-color: rgb(74, 74, 231);
+    background-color: #00171f;
   } 
   
   header {
     position:absolute;
-    border-bottom: 10px solid darkblue;
+    border-bottom: 10px solid #003459;
     margin-top: 20px;
   } 
   
