@@ -15,8 +15,46 @@
   h1,
   h2 {
     margin-top: 10px;
+    float: left;
+  }
+
+  .background{
+    background-image: url("/assets/images/image-3.jpg");
+    background-size: cover;
+    height: 300px;
+    margin-bottom: 20px;
   }
   
+  .profile-img {
+    display: block;
+    margin: 20px auto;
+    height: 100px;
+    float: left;
+    margin-top: 100px;
+  }
+
+  .content {
+    width: 100%;
+    display: inline-block;
+}
+.main-sections {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.main-sections img {
+    max-height: 200px;
+}
+
+.main-sections h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
   main {
     padding: 60px 0;
   }
@@ -38,15 +76,16 @@
     width: 100%;
     line-height: 60px;
     background-color: rgb(74, 74, 231);
-  }
+  } 
   
   header {
     position: fixed;
     border-bottom: 10px solid darkblue;
-  }
+    margin-top: 20px;
+  } 
   
-  .nav {
-    text-align: left;
+   .nav {
+    text-align: right;
   }
 
   .nav a:hover {
@@ -61,4 +100,4 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
-  }
+  } 
