@@ -1,0 +1,64 @@
+/* Universal Selector */
+* {
+    margin:0;
+    padding:0;  
+  }
+  
+  /* Element Selectors */
+  body {
+    position: relative;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 20px;
+    color: white;
+  }
+  
+  h1,
+  h2 {
+    margin-top: 10px;
+  }
+  
+  main {
+    padding: 60px 0;
+  }
+  
+  li {
+    display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  header,
+  footer {
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+    background-color: rgb(74, 74, 231);
+  }
+  
+  header {
+    position: fixed;
+    border-bottom: 10px solid darkblue;
+  }
+  
+  .nav {
+    text-align: left;
+  }
+
+  .nav a:hover {
+    background: rgb(211, 242, 252);
+    color: #000;
+
+  }
+  a:link, a:visited {
+    background-color: transparent;
+    color: white;
+    padding: 0px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
