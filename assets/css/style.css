@@ -63,6 +63,7 @@
     margin: 110px auto auto 20px;
     height: 150px;
     float: left;
+    border-radius: 100px;
   }
 /* Modifies all content within the main sections */
   .content {
