@@ -159,9 +159,29 @@
       background: green;
     }
     .grid-container > div > h2 {
-      font-size: 20px;
+      font-size: 15px;
     }
     body {
       font-size: 10px;
     }
+    a:link, a:visited {
+      padding: 0;
+    }
+    li {
+      padding: 10px;
+    }
+    header,
+    footer {
+      height: 40px;
+      line-height: 40px;
+      margin-top: 20px;
+    } 
+    .main-sections h2 {
+      margin: 20px 0 0 -200px;
+      font-size: 26px;
   }
+    .main-sections {
+      margin: 20px 0 0 150px;
+      padding: 50px;
+  }
+}
