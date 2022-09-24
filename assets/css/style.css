@@ -6,7 +6,7 @@
   body {
     position: relative;
     font-family: "Goudy Bookletter 1911", sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     color: white;
   }
   
@@ -148,6 +148,9 @@
     .grid-container {
       display: inline;
     }
+    body {
+      font-size: 10px;
+    }
   }
   
   /* Large smartphones - navbar changes color */
@@ -157,5 +160,8 @@
     }
     .grid-container > div > h2 {
       font-size: 20px;
+    }
+    body {
+      font-size: 10px;
     }
   }
