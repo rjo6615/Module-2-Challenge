@@ -52,7 +52,7 @@
   } 
 /* Sets the background image behind the header */
   .background {
-    background-image: url("/assets/images/image-3.JPG");
+    background-image: url("../images/image-3.jpg");
     background-size: cover;
     height: 300px;
     margin-bottom: 20px;
