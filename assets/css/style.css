@@ -92,7 +92,6 @@
 
   .grid-container {
     display: grid;
-    grid-template-rows: repeat(1, 4fr);
     gap: 5px;
     padding: 5px;
     cursor: pointer;
@@ -146,8 +145,8 @@
     header {
       background: #772014;
     }
-    .grid-containter {
-      width: 50%;
+    .grid-container {
+      display: inline;
     }
   }
   
@@ -156,7 +155,7 @@
     header {
       background: green;
     }
-    .grid-container {
-      width: 100%;
+    .grid-container > div > h2 {
+      font-size: 20px;
     }
   }
