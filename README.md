@@ -31,9 +31,9 @@ to my repository.
 
 Example images are listed below:
 
-![alt text](assets/images/example-image1.png)
-![alt text](assets/images/example-image2.png)
-![alt text](assets/images/example-image3.png)
+![alt text](./assets/images/example-image1.png)
+![alt text](./assets/images/example-image2.png)
+![alt text](./assets/images/example-image3.png)
 
 ## Credits
 
