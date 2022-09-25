@@ -31,9 +31,9 @@ to my repository.
 
 Example images are listed below:
 
-![Nav bar](../images/example-image1.jpg)
-![Work section](..images/example-image2.jpg)
-![Email example](..images/example-image3.jpg)
+![Nav bar](assets/images/example-image1.jpg)
+![Work section](assets/images/example-image2.jpg)
+![Email example](assets/images/example-image3.jpg)
 
 ## Credits
 
