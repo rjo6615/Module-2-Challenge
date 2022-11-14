@@ -132,24 +132,24 @@
   }
 
   .item1 {
-    grid-column: 1 / 3;
-    background-image: url("../images/prework-study-guide.jpg");
+    grid-column: 1 / 3;   
+    background-image: url("../images/rainy-day-movies.jpg");
   }
 
   .item2 {
-    background-image: url("../images/under-construction.jpg");
+    background-image: url("../images/weather-dashboard.jpg");
   }
 
   .item3 {
-    background-image: url("../images/student-bio.jpg");
+    background-image: url("../images/code-quiz.jpg");
   }
 
   .item4 {
-    background-image: url("../images/mini-project.jpg");
+    background-image: url("../images/work-day-scheduler.jpg");
   }
 
   .item5 {
-    background-image: url("../images/challenge-1.jpg");
+    background-image: url("../images/password-generator.jpg");
   }
 
   @media screen and (max-width: 992px) {

@@ -18,7 +18,7 @@ where I could utalize the skills ive learned thus far to put together a function
 ## Installation
 
 To run this project, the user needs to open the index.html file in their web browser. It can also be
-accessed by utalizing github live pages from this link. https://rjo6615.github.io/Module-2-Challenge/
+accessed by utalizing github live pages from this link. https://rjo6615.github.io/Portfolio/
 
 ## Usage
 
